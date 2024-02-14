@@ -1,0 +1,17 @@
+
+
+
+Driver for ADC (Analog to Digital Converter):
+"Write a driver for an Analog to Digital Converter (ADC)."
+->>  https://github.com/ahmedfaheem/COTS/tree/LM35/MCAL/5-%20ADC
+
+
+Driver for LM35 (Temperature Sensor):
+"Write a driver for the LM35 Temperature Sensor. -> datasheet"
+->> https://github.com/ahmedfaheem/COTS/tree/LM35/HAL/LM35
+
+
+Application to Read Temperature and Display on an LCD:
+"Develop an application that reads temperature data from the LM35 Temperature Sensor using the previously created driver.
+The application should display the temperature on an LCD screen. For example: 'Temperature = 33°C'."
+--> on this repo
